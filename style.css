@@ -32,3 +32,13 @@ img {
   text-align: center;
   color: blueviolet;
 }
+.header__nav {
+  margin-top: 10px;
+  background-color: aqua;
+opacity: 0.5;
+}
+.nav__list{
+ display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
