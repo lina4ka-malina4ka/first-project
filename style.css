@@ -7,7 +7,7 @@
 }
 
 body {
-    background: #C3BDB0;
+    background: #eb96ae;
 }
 
 ul {
@@ -27,4 +27,8 @@ img {
     max-width: 1140px;
     margin: 0 auto;
     padding: 0 15px;
+}
+.header__title{
+  text-align: center;
+  color: blueviolet;
 }
